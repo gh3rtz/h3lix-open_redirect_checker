@@ -1,6 +1,6 @@
 # h3lix_openredirect
 
-h3lix_openredirect is a simple Python tool for checking Open Redirect Vulnerabilities in a list of URLs. This tool uses the `argparse`, `requests`, `art`, and `termcolor` libraries to provide an interactive command-line interface and colorful output.
+h3lix_openredirect is a simple Python tool for checking Open Redirect Vulnerabilities in a list of URLs.
 
 ## Features
 
